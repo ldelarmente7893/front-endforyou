@@ -10,10 +10,6 @@ Then update your webpack.config.js rules to add what i have
 Guide to SASS:
 https://sass-lang.com/guide
 
-Complete this tutorial:
-https://medium.com/litslink/sass-in-examples-5fb9b205c3a8
-
-
 Prerequisites:
 Install Node:
 https://nodejs.org/en/download/
@@ -29,16 +25,12 @@ To Use:
 1. Clone the Repo
 2. Run npm install
 3. Run webpack serve to live reload your project, so you can see changes without refreshing the browser
-4. Once it's running you can go to the dev server and see your changes: http://localhost:9000/
+4. Once it's running you can go to the dev server and see your changes: http://localhost:8080/
 5. **run "webpack build" to bundle your code and put it in the docs folder so github pages can serve it**
 
 Press Control C to stop the server or the builder
 
 Turn on github pages and put a link to your site in the readme when you turn in the github repo link.
-
-Working site here:
-
-http://www.webizly.com/BasicWebPack/
 
 Based on this tutorial:
 

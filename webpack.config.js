@@ -4,7 +4,6 @@ const path = require('path');
 module.exports = {
   // Set the mode to development or production
   mode: 'development',
-  watch: true,
 
   // Control how source maps are generated
   devtool: 'inline-source-map',
